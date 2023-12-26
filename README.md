@@ -7,4 +7,4 @@ This is a small project for testing the technologies I've learnt.
  - Redux-toolkit
  - Tailwindcss
  - Yarn
- - Vercel
+ - Vercel (https://meme-generator-swart.vercel.app/[https://meme-generator-swart.vercel.app/])
